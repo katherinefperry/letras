@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Explorar || Barrio de las Letras</title>
+    <title>Explorar | Barrio de las Letras</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -76,6 +76,24 @@
 
               // Add zoom and rotation controls to the map.
               map.addControl(new mapboxgl.NavigationControl());
+
+              map.on('click', function(e) {
+              var features = map.queryRenderedFeatures(e.point, {
+                layers: ['letras_pts'] // replace this with the name of the layer
+              });
+
+              if (!features.length) {
+                return;
+              }
+
+              var feature = features[0];
+
+              var popup = new mapboxgl.Popup({ offset: [0, -15] })
+                .setLngLat(feature.geometry.coordinates)
+                .setHTML('<h3>' + feature.properties.Title + '</h3><p>' + feature.properties.desc + '</p>')
+                .setLngLat(feature.geometry.coordinates)
+                .addTo(map);
+            });
             </script>
 
             

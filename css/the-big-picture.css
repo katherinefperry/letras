@@ -6,7 +6,7 @@
 body { margin:0; padding:0; }
 #map { position:absolute; top:0; bottom:0; right:0; left:0; width:100%; }
 
-.mt-5, p {
+.mt-5 {
 	padding: 10px 10px;
 }
 
@@ -25,4 +25,12 @@ h1 {
 
 nav.link:hover {
 	background-color: rgb(80, 69, 64);
+}
+
+h3 {
+	font-size: 1em;
+}
+
+p {
+	padding-bottom: -1em;
 }

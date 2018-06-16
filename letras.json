@@ -1,0 +1,460 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -3.6844995, 40.4152606 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11415542133959205806",
+      "Location" : {
+        "Address" : "Plaza de la Independencia, 7, 28001 Madrid, Spain",
+        "Business Name" : "El Parque del Retiro",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4152606",
+          "Longitude" : "-3.6844995"
+        }
+      },
+      "Published" : "2018-06-16T17:26:01Z",
+      "Title" : "El Retiro Park",
+      "Updated" : "2018-06-16T17:26:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.7051159, 40.4170023 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15571094032080262458",
+      "Location" : {
+        "Address" : "ARENAL,4, CENTRO DE, 28013, Madrid, Spain",
+        "Business Name" : "Plaza Del Sol",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4170023",
+          "Longitude" : "-3.7051159"
+        }
+      },
+      "Published" : "2018-06-16T17:25:40Z",
+      "Title" : "PLAZA DEL SOL",
+      "Updated" : "2018-06-16T17:25:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6993524, 40.4130999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17694700814761667109",
+      "Location" : {
+        "Address" : "Calle del León, 28, 28014 Madrid, Spain",
+        "Business Name" : "Pastelería-Chocolatería Bokoko",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4130999",
+          "Longitude" : "-3.6993524"
+        }
+      },
+      "Published" : "2018-06-16T17:25:28Z",
+      "Title" : "Pastelería-Chocolatería Bokoko",
+      "Updated" : "2018-06-16T17:25:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6997314, 40.4136616 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10237779194001839124",
+      "Location" : {
+        "Address" : "Plaza de Matute, 2, 28012 Madrid, Spain",
+        "Business Name" : "El Imperfecto",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4136616",
+          "Longitude" : "-3.6997314"
+        }
+      },
+      "Published" : "2018-06-16T17:25:18Z",
+      "Title" : "El Imperfecto",
+      "Updated" : "2018-06-16T17:25:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6979655, 40.4123332 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4356355311243915326",
+      "Location" : {
+        "Address" : "Calle de Moratín, 5, 28014 Madrid, Spain",
+        "Business Name" : "Fogg Bar Birras & Cheese",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4123332",
+          "Longitude" : "-3.6979655"
+        }
+      },
+      "Published" : "2018-06-16T17:25:10Z",
+      "Title" : "Fogg Bar Birras & Cheese",
+      "Updated" : "2018-06-16T17:25:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6989037, 40.4137569 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2464119920070397467",
+      "Location" : {
+        "Address" : "Calle del León, 17, 28014 Madrid, Spain",
+        "Business Name" : "Dionisos Huertas Restaurante",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4137569",
+          "Longitude" : "-3.6989037"
+        }
+      },
+      "Published" : "2018-06-16T17:25:02Z",
+      "Title" : "Dionisos Huertas Restaurante",
+      "Updated" : "2018-06-16T17:25:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6955757, 40.4123733 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16060323150898812656",
+      "Location" : {
+        "Address" : "Calle Fúcar, 1, 28014 Madrid, Spain",
+        "Business Name" : "El Azul",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4123733",
+          "Longitude" : "-3.6955757"
+        }
+      },
+      "Published" : "2018-06-16T17:24:53Z",
+      "Title" : "El Azul",
+      "Updated" : "2018-06-16T17:24:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6985935, 40.4112715 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15092116115673826418",
+      "Location" : {
+        "Address" : "Calle de Santa Isabel, 7, 28012 Madrid, Spain",
+        "Business Name" : "La Fugitiva",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4112715",
+          "Longitude" : "-3.6985935"
+        }
+      },
+      "Published" : "2018-06-16T17:24:43Z",
+      "Title" : "La Fugitiva",
+      "Updated" : "2018-06-16T17:24:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6948390, 40.4139040 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16090623097325212396",
+      "Location" : {
+        "Address" : "calle Lope de Vega, 47, Semisótano Derecha, 28014 Madrid, Spain",
+        "Business Name" : "La Pension (Las Chicas del Cable)",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4139040",
+          "Longitude" : "-3.6948390"
+        }
+      },
+      "Published" : "2018-06-16T17:24:25Z",
+      "Title" : "PELONIO COMUNICACIÓN",
+      "Updated" : "2018-06-16T17:24:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6941628, 40.4152651 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12316573488129470112",
+      "Location" : {
+        "Address" : "Plaza Cánovas del Castillo, s/n, 28014 Madrid, Spain",
+        "Business Name" : "Fuente de Neptuno",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4152651",
+          "Longitude" : "-3.6941628"
+        }
+      },
+      "Published" : "2018-06-16T17:15:34Z",
+      "Title" : "Fuente de Neptuno",
+      "Updated" : "2018-06-16T17:15:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6948662, 40.4121964 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16929083430467191252",
+      "Location" : {
+        "Address" : "Calle de San Pedro, 8, 28014 Madrid, Spain",
+        "Business Name" : "Bureau Mad",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4121964",
+          "Longitude" : "-3.6948662"
+        }
+      },
+      "Published" : "2018-06-16T17:15:21Z",
+      "Title" : "Bureau Mad",
+      "Updated" : "2018-06-16T17:15:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6957185, 40.4135948 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12280732645743715800",
+      "Location" : {
+        "Address" : "Calle de Jesús, 2, 28014 Madrid, Spain",
+        "Business Name" : "La Fábrica",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4135948",
+          "Longitude" : "-3.6957185"
+        }
+      },
+      "Published" : "2018-06-16T17:14:54Z",
+      "Title" : "La Fábrica",
+      "Updated" : "2018-06-16T17:14:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6937784, 40.4117571 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8586461146108994401",
+      "Location" : {
+        "Address" : "Calle de la Alameda, 9, 28014 Madrid, Spain",
+        "Business Name" : "La Fábrica Restaurante",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4117571",
+          "Longitude" : "-3.6937784"
+        }
+      },
+      "Published" : "2018-06-16T17:14:41Z",
+      "Title" : "La Fábrica Restaurante",
+      "Updated" : "2018-06-16T17:14:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6989498, 40.4101431 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4925830301960849510",
+      "Location" : {
+        "Address" : "Calle Buenavista, 18, 28012 Madrid, Spain",
+        "Business Name" : "Los Porfiados",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4101431",
+          "Longitude" : "-3.6989498"
+        }
+      },
+      "Published" : "2018-06-16T17:12:31Z",
+      "Title" : "Los Porfiados",
+      "Updated" : "2018-06-16T17:12:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6997231, 40.4137354 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7670335168870400339",
+      "Location" : {
+        "Address" : "Calle de las Huertas, 22, 28014 Madrid, Spain",
+        "Business Name" : "Tekoe",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4137354",
+          "Longitude" : "-3.6997231"
+        }
+      },
+      "Published" : "2018-06-16T17:12:23Z",
+      "Title" : "Tekoe",
+      "Updated" : "2018-06-16T17:12:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6982826, 40.4138889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4113055112758043832",
+      "Location" : {
+        "Address" : "Calle Lope de Vega, 9, 28014 Madrid, Spain",
+        "Business Name" : "Gofio",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4138889",
+          "Longitude" : "-3.6982826"
+        }
+      },
+      "Published" : "2018-06-16T17:12:14Z",
+      "Title" : "Gofio",
+      "Updated" : "2018-06-16T17:12:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.700831, 40.414704 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Plaza+Sta.+Ana,+28012+Madrid,+Spain&ftid=0xd4228804e5b5707:0xdb15ab3fe322e7bc",
+      "Location" : {
+        "Latitude" : "40.414704",
+        "Longitude" : "-3.700831"
+      },
+      "Published" : "2018-06-16T17:12:07Z",
+      "Title" : "Plaza Santa Ana",
+      "Updated" : "2018-06-16T17:12:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.7011145, 40.4143849 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12868576911268481758",
+      "Location" : {
+        "Address" : "Plaza Santa Ana, 12, 28012 Madrid, Spain",
+        "Business Name" : "Lateral Santa Ana",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4143849",
+          "Longitude" : "-3.7011145"
+        }
+      },
+      "Published" : "2018-06-16T17:11:58Z",
+      "Title" : "Lateral Santa Ana",
+      "Updated" : "2018-06-16T17:11:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6957058, 40.4123415 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7186526544071513453",
+      "Location" : {
+        "Address" : "Calle Fúcar, 4, 28014 Madrid, Spain",
+        "Business Name" : "El Cielo",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4123415",
+          "Longitude" : "-3.6957058"
+        }
+      },
+      "Published" : "2018-06-16T17:11:39Z",
+      "Title" : "El Cielo",
+      "Updated" : "2018-06-16T17:11:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6988085, 40.4115039 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14607306496988241678",
+      "Location" : {
+        "Address" : "Calle de Santa Isabel, 5, 28012 Madrid, Spain",
+        "Business Name" : "Cutzamala Mex Food",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4115039",
+          "Longitude" : "-3.6988085"
+        }
+      },
+      "Published" : "2018-06-16T17:11:27Z",
+      "Title" : "Cutzamala Mex Food",
+      "Updated" : "2018-06-16T17:11:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6987314, 40.4115651 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13581489486893735380",
+      "Location" : {
+        "Address" : "Calle de Santa Isabel, 5, 28012 Madrid, Spain",
+        "Business Name" : "Mercado Antón Martín",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4115651",
+          "Longitude" : "-3.6987314"
+        }
+      },
+      "Published" : "2018-06-16T17:11:10Z",
+      "Title" : "Mercado Antón Martín",
+      "Updated" : "2018-06-16T17:11:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6995454, 40.4110475 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8164552979639975244",
+      "Location" : {
+        "Address" : "Calle de la Torrecilla del Leal, 12, 28012 Madrid, Spain",
+        "Business Name" : "Taberna El Sur",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "40.4110475",
+          "Longitude" : "-3.6995454"
+        }
+      },
+      "Published" : "2018-06-16T17:10:52Z",
+      "Title" : "Taberna El Sur",
+      "Updated" : "2018-06-16T17:10:52Z"
+    },
+    "type" : "Feature"
+  }, 
