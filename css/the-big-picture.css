@@ -11,18 +11,18 @@ body { margin:0; padding:0; }
 }
 
 .mt-5 {
-	font-family: "Elsie Swash Caps";
-	color: #fff;
-	font-weight: 900;
+	font-family: "Oswald";
+	color: #333;
+	font-weight: 600;
 	line-height: .85em;
-	text-shadow: 0 0 50px #8c817c;
+	text-shadow: 0 0 15px #fff4c4;
+	text-transform: uppercase;
 }
 
 h1 {
-	font-size: 5em;
+	font-size: 3em;
 }
 
-footer {
-	padding: 15px 15px;
+nav.link:hover {
+	background-color: rgb(80, 69, 64);
 }
-
