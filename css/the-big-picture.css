@@ -1,0 +1,28 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; right:0; left:0; width:100%; }
+
+.mt-5, p {
+	padding: 10px 10px;
+}
+
+.mt-5 {
+	font-family: "Elsie Swash Caps";
+	color: #fff;
+	font-weight: 900;
+	line-height: .85em;
+	text-shadow: 0 0 50px #8c817c;
+}
+
+h1 {
+	font-size: 5em;
+}
+
+footer {
+	padding: 15px 15px;
+}
+

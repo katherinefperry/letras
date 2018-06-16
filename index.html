@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Explorar || Barrio de las Letras</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/the-big-picture.css" rel="stylesheet">
+
+    <!-- Mapbox -->
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.45.0/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { width:100%; }
+    </style>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Elsie+Swash+Caps:900|Spirax" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom" style="max-height: 60px">
+      <div class="container">
+        <a class="navbar-brand" href="#" style="font-family: Spirax; font-weight: 900; font-size: 2em; text-shadow: 0 0 4px #000; color: #fff">bienvenidos</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+<!--            <li class="nav-item active">
+              <a class="nav-link" href="#">Home
+                <span class="sr-only">(current)</span>
+              </a>
+            </li> -->
+            <li class="nav-item">
+              <a class="nav-link" href="mas.html" target="_blank">más</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <section>
+      <div class="container">
+
+        <div class="row">
+        <div id="map"></div>
+          <div class="col-lg-6">
+            <h1 class="mt-5">Barrio de las Letras</h1>
+            <script>
+              mapboxgl.accessToken = 'pk.eyJ1Ijoia2F0aGVyaW5lZnBlcnJ5IiwiYSI6ImNqZzJxa2Z2OTI4bzQyd2xsdmRvZDhpb3AifQ.CQSkuewcazlee6t9OJ3FXg';
+              var map = new mapboxgl.Map({
+                  container: 'map', // container id
+                  style: 'mapbox://styles/katherinefperry/cjigqecf102f42rnxq2tbfj4j', // stylesheet location
+                  center: [-3.699607, 40.413670], // starting position [lng, lat]
+                  zoom: 15.5 // starting zoom
+              });
+
+              // Add zoom and rotation controls to the map.
+              map.addControl(new mapboxgl.NavigationControl());
+            </script>
+
+            
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>
